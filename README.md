@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, programming, and open-source contributions.
 - 🌱 I’m currently learning PHP, JavaScript, and front-end frameworks.
 - 💞️ I’m looking to collaborate on web development projects and open-source initiatives.
-- 📫 How to reach me: [your email or social media links]
+- 📫 How to reach me: sudhirkumar.contact@gmail.com https://sraryan.co.in/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding challenges and solving complex problems!
